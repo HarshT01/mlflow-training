@@ -25,3 +25,10 @@ This Repository contains the resources for my tutorial **"Managing the end-to-en
 
 ## Setup the environment
 - install postgresql: `sudo apt-get install postgresql postgresql-contrib postgresql-server-dev-all`
+
+# Screenshots
+
+<img width="693" alt="3 2" src="https://github.com/HarshT01/mlflow-training/assets/163338604/a7807ab1-711d-4c0d-ac6c-0a3fa8cb6b5f">
+
+<img width="959" alt="3 2b" src="https://github.com/HarshT01/mlflow-training/assets/163338604/13bcbebd-7235-4cd0-aab7-1c267bb70076">
+
