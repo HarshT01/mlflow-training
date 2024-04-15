@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adduser/pydataberlin-2019/mlruns/1/463a0ce04b744427849387cce50452d2/artifacts
+end_time: 1713165797148
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 463a0ce04b744427849387cce50452d2
+run_name: gentle-sloth-700
+run_uuid: 463a0ce04b744427849387cce50452d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713165795254
+status: 3
+tags: []
+user_id: adduser

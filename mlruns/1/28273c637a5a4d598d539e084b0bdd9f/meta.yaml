@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adduser/pydataberlin-2019/mlruns/1/28273c637a5a4d598d539e084b0bdd9f/artifacts
+end_time: 1713165794505
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 28273c637a5a4d598d539e084b0bdd9f
+run_name: wise-fawn-133
+run_uuid: 28273c637a5a4d598d539e084b0bdd9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713165792386
+status: 3
+tags: []
+user_id: adduser

@@ -1,0 +1,6 @@
+artifact_location: file:///home/adduser/pydataberlin-2019/mlruns/1
+creation_time: 1713165720059
+experiment_id: '1'
+last_update_time: 1713165720059
+lifecycle_stage: active
+name: ElasticNet_wine
